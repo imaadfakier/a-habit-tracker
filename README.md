@@ -1,2 +1,2 @@
-# a-habit-tracker
+# A Habit Tracker
 Track your habits.
